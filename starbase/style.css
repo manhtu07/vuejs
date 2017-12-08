@@ -1,0 +1,9 @@
+body {
+    background: #263238;
+}
+
+#app {
+    font-family: 'Avenir', sans-serif;
+    text-align: center;
+    color: white;
+}
